@@ -71,7 +71,7 @@ int main(int argc, char *argv[])
 		
 		
         /*Draw background*/
-        SDL_SetRenderDrawColor(renderer, 0x00, 0x00, 0x00, 0xFF);
+        SDL_SetRenderDrawColor(renderer, 0xE9, 0xE9, 0xE8, 0xFF);
         SDL_RenderClear(renderer);
         
         /*Draw clock wireframe*/
